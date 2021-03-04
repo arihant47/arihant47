@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything 😂
 - 👯 I’m looking to collaborate with developers around the globe
 - 🥅 **2021 Goals**: Contribute more to Open Source projects
-- ⚡ **Fun fact**: I love to sing and explore the nature!
+- ⚡ **Fun fact**: Public Speaking is an additional feature in my package! And, I love to sing and explore the nature!
 
 ### Connect with me:
 
